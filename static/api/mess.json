@@ -1,0 +1,64 @@
+[{
+  "rating": "3.67",
+  "rating_count": "3",
+  "name": "Mom's Kitchen",
+  "img": "https://images2.staycube.in/mess/sample5.jpg",
+  "start_price": 3000,
+  "delivery_areas": "Makhania Kuan, Machuatoli, Nala Road, PMCH, Bhikhna Pahari, Bakarganj",
+  "id": 9,
+  "desc": "Veg Only"
+}, {
+  "rating": "5.00",
+  "rating_count": "1",
+  "name": "Swad Ghar ka Tiffin",
+  "img": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/2017/07/07200424/HomeCookedby-Foodizen1.jpg",
+  "start_price": 3000,
+  "delivery_areas": "Boring Road, Boring Canal Road",
+  "id": 7,
+  "desc": "Veg/Non Veg"
+}, {
+  "rating": "5.00",
+  "rating_count": "1",
+  "name": "Vaishnavi Tiffin Service",
+  "img": "https://images2.staycube.in/mess/sample3.jpg",
+  "start_price": 3000,
+  "delivery_areas": "IGIMS to Shaguna More",
+  "id": 8,
+  "desc": "Veg/Non Veg"
+}, {
+  "rating": "5.00",
+  "rating_count": "1",
+  "name": "Supriya Mess",
+  "img": "https://images2.staycube.in/mess/sample2.jpg",
+  "start_price": 3000,
+  "delivery_areas": "GaiGhat to Gandhi Maidan",
+  "id": 5,
+  "desc": "Veg/Non Veg"
+}, {
+  "rating": "3.00",
+  "rating_count": "1",
+  "name": "Shiv Mess",
+  "img": "https://5.imimg.com/data5/XM/EE/SP/ANDROID-82042909/product-jpeg-500x500.jpg",
+  "start_price": 3000,
+  "delivery_areas": "Bahadurpur, Bazar Samiti, Lohanipur, Rajendra Nagar, Machuatoli, GM Road",
+  "id": 11,
+  "desc": "Veg/Non Veg"
+}, {
+  "rating": "0.00",
+  "rating_count": "0",
+  "name": "Raj Tiffin Service",
+  "img": "https://images2.staycube.in/mess/sample4.jpg",
+  "start_price": 3000,
+  "delivery_areas": "GM Road, Machuatoli, Makhania Kuan, SabjiBagh, PMCH, Khazanchi Road",
+  "id": 4,
+  "desc": "Veg/Non Veg"
+}, {
+  "rating": "0.00",
+  "rating_count": "0",
+  "name": "Projayeka Restaurant Tiffin Service",
+  "img": "https://images2.staycube.in/mess/sample1.jpg",
+  "start_price": 1000,
+  "delivery_areas": "Raza Bazar, Boring Road, Gandhi Maidan, Kadam Kuan, Rajendra Nagar, Ashok Rajpath, Kankarbagh,  Mahendru, Bazar Samiti",
+  "id": 12,
+  "desc": "Veg/Non Veg"
+}]
